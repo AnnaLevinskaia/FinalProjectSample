@@ -11,10 +11,17 @@ public class Main {
         Fxron.size = "4382742km";
         Fxron.temp = "-23478274372k";
 
+
         Planet1 stuart=new Planet1();
         stuart.color="white";
         stuart.size=2225;
         stuart.rings="5";
+
+
+        Planet2 Boris=new Planet2();
+        Boris.rings=3;
+        Boris.size=4552;
+        Boris.temp="-12555k";
 
     }
 }
